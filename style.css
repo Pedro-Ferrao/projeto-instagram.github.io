@@ -150,7 +150,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url("stories_background.jpg");
+    background-image: url("imagens/stories_background.jpg");
     background-position: center top;
     background-size: 100% auto;
     border-radius: 33px;
